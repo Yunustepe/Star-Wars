@@ -1,0 +1,16 @@
+const MALE_CHARACTER_IMAGES = {
+  "Owen Lars": [
+    "/images/characters/owen-lars.jpg", // Yerel dosya yolu
+    "https://starwars-visualguide.com/assets/img/characters/6.jpg" // Yedek online kaynak
+  ],
+  // Diğer karakterler...
+};
+
+const FEMALE_CHARACTER_IMAGES = {
+  "Beru Whitesun Lars": [
+    "/images/characters/beru-lars.jpg",
+    "https://starwars-visualguide.com/assets/img/characters/7.jpg"
+  ],
+  // Diğer karakterler...
+};
+
